@@ -1,4 +1,3 @@
-Game Over
 Game Over is a web application that allows users to browse and view details of free-to-play games. The application fetches game data from the Free-to-Play Games Database API and displays it in a user-friendly interface.
 
 Features
